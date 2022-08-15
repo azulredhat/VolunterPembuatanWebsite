@@ -5,4 +5,4 @@ Silakan gunakan format berikut:
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
 Berikut daftar Volunter yang diterima:
-* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Ade Iskandar Zulkarnaen, [LinkedIn](https://www.linkedin.com/in/adeiskandarzulkarnaen/).
